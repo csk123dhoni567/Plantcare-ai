@@ -1,0 +1,6 @@
+{
+  "name": "PlantCare AI",
+  "description": "Plantix-inspired premium AI-powered agriculture app for automated plant disease classification, crop monitoring, and expert recommendations.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
